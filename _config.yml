@@ -1,7 +1,6 @@
 # Site settings
 title: فوت و فن
 SEOTitle: ترفند
-header-img: img/home-bg.jpg
 email: Mhkarami97@gmail.com
 description: "ترفند روزانه"
 keyword: "فن, ترفند"
@@ -71,8 +70,8 @@ ga_domain: mhkarami97.ir
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "mhkarami97"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Mohammad Hossein Karami"
+sidebar-avatar: my.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
