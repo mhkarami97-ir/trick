@@ -12,9 +12,6 @@ future: true
 
 # SNS settings
 RSS: false
-github_username: mhkarami97
-twitter_username: mhkarami97
-linkedin_username:  mhkarami97
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -38,7 +35,7 @@ anchorjs: true # if you want to customize anchor. check out line:181 of `post.ht
 # from PR#40, to support local preview for Jekyll 3.0
 # make sure you have this gem installed
 # `$ gem install jekyll-paginate`
-plugins: [jekyll-paginate]
+plugins: [jekyll-paginate,jekyll-sitemap,jekyll-seo-tag,jekyll-feed]
 
 # Markdown settings
 # replace redcarpet to kramdown,
@@ -65,7 +62,7 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "G-DZM25ZLKRP" # Format: UA-xxxxxx-xx
+ga_track_id: "G-2KGKGYQR60" # Format: UA-xxxxxx-xx
 ga_domain: mhkarami97.ir
 
 # Sidebar settings
