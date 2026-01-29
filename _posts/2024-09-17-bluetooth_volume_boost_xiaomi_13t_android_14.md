@@ -17,7 +17,7 @@ tags:
 
 اکنون به سربرگ `Hardware Testing` بروید و سپس بر روی `Audio` کلیک کنید.  
 
-![mhkarami97](/img/post/bluetooth_volume_boost_xiaomi_13t_android_14.jpg)  
+![mhkarami97](/assets/img/post/bluetooth_volume_boost_xiaomi_13t_android_14.jpg)  
 
 سپس مسیر زیر را ادامه دهید.  
 
@@ -25,7 +25,7 @@ tags:
 
 اکنون در صفحه باز شده از بخش دوم Music را انتخاب کنید.  
 
-![mhkarami97](/img/post/bluetooth_volume_boost_xiaomi_13t_android_14-1.jpg)  
+![mhkarami97](/assets/img/post/bluetooth_volume_boost_xiaomi_13t_android_14-1.jpg)  
 
  کافی است Index 15 را از مقداری که دارد به 255 تغییر دهید.  
  دقت کنید که این مورد را باید برای هر 3 آیتم زیر انجام دهید. همچنین دقت کنید که به ازای هر کدام نیاز است بر روی Set کلیک کنید و سپس به آیتم بعدی بروید.  
@@ -40,4 +40,4 @@ tags:
 
 مقدار Bluetooth audio codec را به `LDAC` و Bluetooth audio sample rate را به `96.0 KHZ` تغییر دهید.  
 
-![mhkarami97](/img/post/bluetooth_volume_boost_xiaomi_13t_android_14-2.jpg)  
+![mhkarami97](/assets/img/post/bluetooth_volume_boost_xiaomi_13t_android_14-2.jpg)  

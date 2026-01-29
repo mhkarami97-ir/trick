@@ -10,6 +10,6 @@ tags:
 برای اینکه هاله مشکلی دوربین در عکس نیافتد کافی است در موبایل اندازه عکاسی را بر روی 1*1 قرار دهید.  
 
 
-![mhkarami97](/img/post/binoculars.jpg)  
+![mhkarami97](/assets/img/post/binoculars.jpg)  
 
 [آداپتور اتصال تلسکوپ](https://www.digikala.com/product/dkp-10064639/%D8%A2%D8%AF%D8%A7%D9%BE%D8%AA%D9%88%D8%B1-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%AA%D9%84%D8%B3%DA%A9%D9%88%D9%BE-%D9%85%D8%AF%D9%84-universal/)  

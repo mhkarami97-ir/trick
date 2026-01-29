@@ -8,6 +8,6 @@ tags:
 برای اینکه هاله مشکلی دوربین در عکس نیافتد کافی است در موبایل اندازه عکاسی را بر روی 1*1 قرار دهید.  
 
 
-![mhkarami97](/img/post/micro_camera.jpg)  
+![mhkarami97](/assets/img/post/micro_camera.jpg)  
 
 [لنز کلیپسی موبایل اپیکسل](https://www.digikala.com/product/dkp-9321200/%D9%84%D9%86%D8%B2-%DA%A9%D9%84%DB%8C%D9%BE%D8%B3%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%A7%D9%BE%DB%8C%DA%A9%D8%B3%D9%84-%D9%85%D8%AF%D9%84-apl-045wm-s/)  

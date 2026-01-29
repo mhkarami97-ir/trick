@@ -10,7 +10,7 @@ tags:
 
 [تبدیل USB به DC](https://www.digikala.com/product/dkp-12064830/%DA%A9%D8%A7%D8%A8%D9%84-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84-usb-%D8%A8%D9%87-dc-%D8%A2%D8%B1%D8%B3%D9%88%D9%86-%D9%85%D8%AF%D9%84-an-h4g-%D8%B7%D9%88%D9%84-1-%D9%85%D8%AA%D8%B1/)  
 
-![mhkarami97](/img/post/modem_powerbank.jpg)  
+![mhkarami97](/assets/img/post/modem_powerbank.jpg)  
 
 اکنون مشابه عکس بالا می‌توانید مودم خود را به پاوربانک متصل کنید. چراغ سیم نیز در زمان اتصال به رنگ قرمز درمی‌آید.  
 

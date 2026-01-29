@@ -9,6 +9,6 @@ tags:
 همچنین از این قطعه بدون موبایل و با چشم عادی نیز می‌توانید استفاده کنید.  
 
 
-![mhkarami97](/img/post/microscope.jpg)  
+![mhkarami97](/assets/img/post/microscope.jpg)  
 
 [ذره بین یونیورسال](https://www.digikala.com/product/dkp-10856075/%D8%B0%D8%B1%D9%87-%D8%A8%DB%8C%D9%86-%DB%8C%D9%88%D9%86%DB%8C%D9%88%D8%B1%D8%B3%D8%A7%D9%84-%D9%85%D8%AF%D9%84-60x/)  
