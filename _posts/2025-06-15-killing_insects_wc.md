@@ -1,9 +1,5 @@
 ---
-layout: post
 title: "کشتن حشرات و سوسک سرویس بهداشتی"
-author: "mhkarami97"
-header-style: text
-catalog: true
 tags:
     - خانه
 ---

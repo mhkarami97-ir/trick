@@ -1,9 +1,5 @@
 ---
-layout: post
 title: "دوربین شکاری مناسب پرنده نگری"
-author: "mhkarami97"
-header-style: text
-catalog: true
 tags:
     - ابزار
 ---

@@ -1,9 +1,5 @@
 ---
-layout: post
 title: "انجام راحت چکاب در خانه یا محل کار"
-author: "mhkarami97"
-header-style: text
-catalog: true
 tags:
     - سایت
 ---

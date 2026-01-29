@@ -1,9 +1,5 @@
 ---
-layout: post
 title: "رفع تکان زیاد لباسشویی و تراز کردن آن"
-author: "mhkarami97"
-header-style: text
-catalog: true
 tags:
     - خانه
 ---

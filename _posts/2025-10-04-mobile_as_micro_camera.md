@@ -1,9 +1,5 @@
 ---
-layout: post
 title: "تبدیل موبایل به لنز ماکرو"
-author: "mhkarami97"
-header-style: text
-catalog: true
 tags:
     - موبایل
 ---

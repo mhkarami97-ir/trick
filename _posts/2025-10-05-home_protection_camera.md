@@ -1,9 +1,5 @@
 ---
-layout: post
 title: "دوربین مدار بسته برای خانه"
-author: "mhkarami97"
-header-style: text
-catalog: true
 tags:
     - ابزار
 ---

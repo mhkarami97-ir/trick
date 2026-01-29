@@ -1,9 +1,5 @@
 ---
-layout: post
 title: "رفع صدای تق تق از رادیاتور پکیج"
-author: "mhkarami97"
-header-style: text
-catalog: true
 tags:
     - خانه
 ---

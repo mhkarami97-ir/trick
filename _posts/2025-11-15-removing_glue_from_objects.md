@@ -1,9 +1,5 @@
 ---
-layout: post
 title: "پاک کردن جای باقیمانده از چسب روی اجسام"
-author: "mhkarami97"
-header-style: text
-catalog: true
 tags:
     - ابزار
 ---

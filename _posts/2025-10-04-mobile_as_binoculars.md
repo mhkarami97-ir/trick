@@ -1,9 +1,5 @@
 ---
-layout: post
 title: "اتصال موبایل به دوربین شکاری"
-author: "mhkarami97"
-header-style: text
-catalog: true
 tags:
     - موبایل
 ---

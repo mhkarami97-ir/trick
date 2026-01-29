@@ -1,9 +1,5 @@
 ---
-layout: post
 title: "مدیریت رمزهای عبور در دستگاه‌های مختلف"
-author: "mhkarami97"
-header-style: text
-catalog: true
 tags:
     - کامپیوتر
 ---

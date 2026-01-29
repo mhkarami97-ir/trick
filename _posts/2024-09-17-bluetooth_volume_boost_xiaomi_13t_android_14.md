@@ -1,9 +1,5 @@
 ---
-layout: post
 title: "افزایش مقدار Volume صدا در اسپیکر بلوتوثی متصل به اندروید 14 گوشی شیائومی 13t"
-author: "mhkarami97"
-header-style: text
-catalog: true
 tags:
     - اندروید
 ---

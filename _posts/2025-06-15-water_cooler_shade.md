@@ -1,9 +1,5 @@
 ---
-layout: post
 title: "بهبود خنکی کولر آبی"
-author: "mhkarami97"
-header-style: text
-catalog: true
 tags:
     - خانه
 ---

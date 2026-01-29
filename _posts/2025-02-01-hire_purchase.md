@@ -1,9 +1,5 @@
 ---
-layout: post
 title: "مقایسه اعتبار خرید قسطی آنلاین اپ‌های مختلف"
-author: "mhkarami97"
-header-style: text
-catalog: true
 tags:
     - خرید
 ---

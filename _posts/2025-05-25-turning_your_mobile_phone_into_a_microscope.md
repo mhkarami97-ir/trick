@@ -1,9 +1,5 @@
 ---
-layout: post
 title: "تبدیل موبایل به میکروسکوپ"
-author: "mhkarami97"
-header-style: text
-catalog: true
 tags:
     - ابزار
 ---

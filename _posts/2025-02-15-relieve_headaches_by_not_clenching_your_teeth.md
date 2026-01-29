@@ -1,9 +1,5 @@
 ---
-layout: post
 title: "جلوگیری از سردرد با عدم فشار دادن دندان‌ها روی هم"
-author: "mhkarami97"
-header-style: text
-catalog: true
 tags:
     - سلامت
 ---

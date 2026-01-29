@@ -1,9 +1,5 @@
 ---
-layout: post
 title: "مدیریت بهتر و راحتتر زندگی"
-author: "mhkarami97"
-header-style: text
-catalog: true
 tags:
     - شخصی
 ---

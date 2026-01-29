@@ -1,9 +1,5 @@
 ---
-layout: post
 title: "رگلاژ درب ماشین"
-author: "mhkarami97"
-header-style: text
-catalog: true
 tags:
     - فنی
 ---

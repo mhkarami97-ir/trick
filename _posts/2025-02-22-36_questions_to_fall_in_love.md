@@ -1,9 +1,5 @@
 ---
-layout: post
 title: "36 سوال برای دوستی با افراد"
-author: "mhkarami97"
-header-style: text
-catalog: true
 tags:
     - ارتباط
 ---

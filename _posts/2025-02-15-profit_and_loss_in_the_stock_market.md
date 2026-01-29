@@ -1,9 +1,5 @@
 ---
-layout: post
 title: "سود و ضرر در سرمایه‌گذاری"
-author: "mhkarami97"
-header-style: text
-catalog: true
 tags:
     - سرمایه‌گذاری
 ---

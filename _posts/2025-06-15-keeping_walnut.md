@@ -1,9 +1,5 @@
 ---
-layout: post
 title: "جلوگیری از حشره زدن گردو"
-author: "mhkarami97"
-header-style: text
-catalog: true
 tags:
     - غذا
 ---

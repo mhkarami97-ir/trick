@@ -1,9 +1,5 @@
 ---
-layout: post
 title: "گوش دادن به آهنگ و پادکست"
-author: "mhkarami97"
-header-style: text
-catalog: true
 tags:
     - اپلیکیشن
 ---

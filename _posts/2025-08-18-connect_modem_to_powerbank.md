@@ -1,9 +1,5 @@
 ---
-layout: post
 title: "وصل کردن مودم اینترنت ADSL/LTE به پاوربانک"
-author: "mhkarami97"
-header-style: text
-catalog: true
 tags:
     - کامپیوتر
 ---

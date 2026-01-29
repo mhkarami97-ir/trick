@@ -1,9 +1,5 @@
 ---
-layout: post
 title: "نگهداری از گل با کپسول آب تک شاخه"
-author: "mhkarami97"
-header-style: text
-catalog: true
 tags:
     - ابزار
 ---

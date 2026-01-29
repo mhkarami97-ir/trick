@@ -1,9 +1,5 @@
 ---
-layout: post
 title: "شناسایی گیاهان با عکس"
-author: "mhkarami97"
-header-style: text
-catalog: true
 tags:
     - اپلیکیشن
 ---

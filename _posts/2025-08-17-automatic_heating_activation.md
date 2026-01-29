@@ -1,9 +1,5 @@
 ---
-layout: post
 title: "روشن شدن خودکار پکیج"
-author: "mhkarami97"
-header-style: text
-catalog: true
 tags:
     - خانه
 ---

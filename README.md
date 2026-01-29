@@ -1,1 +1,1 @@
-[trick](https://trick.mhkarami97.ir)
+# mhkarami97

@@ -1,9 +1,5 @@
 ---
-layout: post
 title: "رفع سردردهای میگرنی با راهکار ساده"
-author: "mhkarami97"
-header-style: text
-catalog: true
 tags:
     - سلامت
 ---
